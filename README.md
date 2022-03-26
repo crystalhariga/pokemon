@@ -11,3 +11,4 @@ Nature of dataset:
 ### Sneak-a-peek of Insights from this Report
 ![Strongest Pokemon by Type](/img/total-stats_by_primary-type.png)
 ![Strongest Pokemon Based on Defense & Attack](/img/defense_by_atk.png)
+![Model Results](/img/confusion_matrix.png)
