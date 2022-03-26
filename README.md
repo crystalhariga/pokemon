@@ -4,7 +4,7 @@ Nature of dataset:
 * Imbalanced data
 
 ### Results of Report
-* Charts visualizing which Pokemon Type is the strongest, you guessed it: (__Dragon__)!
+* Charts visualizing which Pokemon Type is the strongest, you guessed it: it's __Dragon__!
 * Logistic Regression Model to determine whether a Pokemon is Legendary for Pokemon Trainers
   * To prevent wastage of Master PokeBalls 
 
