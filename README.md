@@ -1,4 +1,4 @@
-# Catch Stronger Pokemon Report
+# Let's Catch Them Stronger Pokemon!
 Nature of dataset:
 * Missing data
 * Imbalanced data
