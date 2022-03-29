@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+matplotlib.pyplot
+seaborn
+sklearn
+warnings
